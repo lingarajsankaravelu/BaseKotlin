@@ -1,4 +1,4 @@
-package `in`.lr.base.database.user
+package `in`.lingaraj.root.database.user
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey

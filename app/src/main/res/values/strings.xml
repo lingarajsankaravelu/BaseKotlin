@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Base</string>
     <string name="preferenceName">lrAppPreference</string>
+    <string name="error_permission_denied">Please provide requested permission to continue!</string>
 </resources>

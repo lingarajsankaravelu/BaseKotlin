@@ -1,7 +1,7 @@
-package `in`.lr.base.homescreen
+package `in`.lingaraj.root.homescreen
 
-import `in`.lr.base.R
-import `in`.lr.base.wrappers.SharedPreference
+import `in`.lingaraj.root.R
+import `in`.lingaraj.root.wrappers.SharedPreference
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import dagger.hilt.android.AndroidEntryPoint

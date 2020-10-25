@@ -1,4 +1,4 @@
-package `in`.lr.base
+package `in`.lingaraj.root
 
 import org.junit.Test
 

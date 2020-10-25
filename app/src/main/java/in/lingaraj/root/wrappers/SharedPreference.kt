@@ -1,4 +1,4 @@
-package `in`.lr.base.wrappers
+package `in`.lingaraj.root.wrappers
 
 import android.content.Context
 import android.content.SharedPreferences

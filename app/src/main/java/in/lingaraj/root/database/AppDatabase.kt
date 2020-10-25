@@ -1,7 +1,7 @@
-package `in`.lr.base.database
+package `in`.lingaraj.root.database
 
-import `in`.lr.base.database.user.User
-import `in`.lr.base.database.user.UserDAO
+import `in`.lingaraj.root.database.user.User
+import `in`.lingaraj.root.database.user.UserDAO
 import androidx.room.Database
 import androidx.room.RoomDatabase
 

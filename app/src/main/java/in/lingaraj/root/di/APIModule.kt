@@ -1,6 +1,6 @@
-package `in`.lr.base.di
+package `in`.lingaraj.root.di
 
-import `in`.lr.base.api.BaseRouter
+import `in`.lingaraj.root.api.BaseRouter
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

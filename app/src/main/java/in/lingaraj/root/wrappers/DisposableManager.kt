@@ -1,4 +1,4 @@
-package `in`.lr.base.wrappers
+package `in`.lingaraj.root.wrappers
 
 import io.reactivex.disposables.CompositeDisposable
 import io.reactivex.disposables.Disposable

@@ -1,6 +1,6 @@
-package `in`.lr.base.di
+package `in`.lingaraj.root.di
 
-import `in`.lr.base.wrappers.SharedPreference
+import `in`.lingaraj.root.wrappers.SharedPreference
 import android.content.Context
 import dagger.Module
 import dagger.Provides

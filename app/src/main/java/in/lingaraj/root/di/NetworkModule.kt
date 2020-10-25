@@ -1,7 +1,7 @@
-package `in`.lr.base.di
+package `in`.lingaraj.root.di
 
-import `in`.lr.base.BuildConfig
-import `in`.lr.base.Constants
+import `in`.lingaraj.root.BuildConfig
+import `in`.lingaraj.root.Constants
 import com.google.gson.Gson
 import dagger.Module
 import dagger.Provides

@@ -1,9 +1,8 @@
-package `in`.lr.base.di
+package `in`.lingaraj.root.di
 
-import `in`.lr.base.database.AppDatabase
+import `in`.lingaraj.root.database.AppDatabase
 import android.content.Context
 import androidx.room.Room
-import androidx.room.RoomDatabase
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

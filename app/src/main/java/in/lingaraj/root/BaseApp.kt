@@ -1,4 +1,4 @@
-package `in`.lr.base
+package `in`.lingaraj.root
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp
